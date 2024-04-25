@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "name": "Sản phẩm 1",
+    "price": 100000,
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fatinproduction.com%2Fportfolio%2Fchup-anh-san-pham-dep-tinh-te-va-chuyen-nghiep-nhat-tp-hcm%2F&psig=AOvVaw2juNe1kc-ievjEdqwjXWHQ&ust=1713773990591000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiFjePv0oUDFQAAAAAdAAAAABAJ"
+  },
+  {
+    "id": "2",
+    "name": "Sản phẩm 2",
+    "price": 200000,
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fchupanhnoithat.vn%2F10-quy-trinh-chup-anh-san-pham-dep-khong-the-bo-qua.html&psig=AOvVaw2juNe1kc-ievjEdqwjXWHQ&ust=1713773990591000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiFjePv0oUDFQAAAAAdAAAAABAT"
+  }
+]
